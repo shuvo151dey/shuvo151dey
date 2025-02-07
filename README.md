@@ -30,7 +30,7 @@
 
 ## 🌐 Connect with Me  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/shuvomoy-dey">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
