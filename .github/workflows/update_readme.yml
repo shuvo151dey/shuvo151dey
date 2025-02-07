@@ -1,0 +1,26 @@
+name: Update GitHub Profile README with LeetCode Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:  # Allows manual execution
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Set Up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python update_readme.py
