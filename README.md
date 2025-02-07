@@ -28,6 +28,14 @@
 
 ---
 
+## 🚀 LeetCode Stats
+<!-- LEETCODE-STATS-START -->
+🔄 Loading latest LeetCode stats...
+<!-- LEETCODE-STATS-END -->
+
+
+---
+
 ## 🌐 Connect with Me  
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; align-items: center; gap: 10px;">
