@@ -44,9 +44,6 @@
   <a href="https://www.linkedin.com/in/shuvomoy-dey">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/shuvo151dey">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
   <a href="mailto:shuvo151dey@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
