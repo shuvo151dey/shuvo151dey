@@ -18,17 +18,29 @@
 ---
 
 
-### 📊 GitHub Stats:
-![Shuvomoy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shuvo151dey&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo151dey&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shuvo151dey&theme=tokyonight)  
+## 📊 GitHub Stats  
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=shuvo151dey&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shuvo151dey&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo151dey&layout=compact&theme=tokyonight" height="150" />
+</div>
 
 ---
 
-### 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shuvomoy-dey)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shuvo151dey)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:shuvo151dey@gmail.com)  
+## 🌐 Connect with Me  
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/shuvomoy-dey">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/shuvo151dey">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:shuvo151dey@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+</div>
 
 ---
 
