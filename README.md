@@ -31,7 +31,7 @@
 ## 🚀 LeetCode Stats
 <!-- LEETCODE-STATS-START -->
 🔢 **Total Solved:** 666  
-🏆 **Ranking:** 75300  
+🏆 **Ranking:** 75073  
 🔥 **Easy:** 222 | **Medium:** 355 | **Hard:** 89  
 <!-- LEETCODE-STATS-END -->
 
