@@ -30,9 +30,9 @@
 
 ## 🚀 LeetCode Stats
 <!-- LEETCODE-STATS-START -->
-🔢 **Total Solved:** 889  
+🔢 **Total Solved:** 890  
 🏆 **Ranking:** 36992  
-🔥 **Easy:** 274 | **Medium:** 486 | **Hard:** 129  
+🔥 **Easy:** 275 | **Medium:** 486 | **Hard:** 129  
 <!-- LEETCODE-STATS-END -->
 
 
